@@ -2,6 +2,9 @@ centos:7
 nginx
 postgres:13
 python:2.7.18
+openjdk:11
+openjdk:13
+openjdk:8
 #支持私库
 docker.io/ixuzhi/kylinos-server:v10-sp3
 python:alpine3.19

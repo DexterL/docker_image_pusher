@@ -1,6 +1,7 @@
 centos:7
 nginx
 postgres:13
+postgres:13.16
 python:2.7.18
 openjdk:11
 openjdk:13

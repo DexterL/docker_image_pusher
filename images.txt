@@ -11,4 +11,5 @@ openjdk:8
 docker.io/ixuzhi/kylinos-server:v10-sp3
 jupyter/pyspark-notebook:x86_64-spark-3.5.0
 python:alpine3.19
+prom/prometheus:latest
 #支持指定架构

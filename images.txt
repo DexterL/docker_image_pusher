@@ -1,3 +1,4 @@
+grafana/grafana:latest
 centos:7
 nginx
 postgres:13

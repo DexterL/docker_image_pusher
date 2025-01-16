@@ -4,6 +4,7 @@ nginx
 postgres:13
 postgres:13.16
 postgis/postgis:16-master
+apache/seatunnel:2.3.8
 python:2.7.18
 openjdk:11
 openjdk:13

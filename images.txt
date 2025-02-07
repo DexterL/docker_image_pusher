@@ -1,3 +1,4 @@
+apache/seatunnel:2.3.9
 grafana/grafana:latest
 centos:7
 nginx

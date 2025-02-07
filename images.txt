@@ -1,3 +1,5 @@
+mysql:8.0.41
+postgres:17.2
 apache/seatunnel:2.3.9
 grafana/grafana:latest
 centos:7

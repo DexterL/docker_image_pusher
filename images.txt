@@ -1,3 +1,4 @@
+spark:3.5.4-java17
 mysql:8.0.41
 postgres:17.2
 apache/seatunnel:2.3.9

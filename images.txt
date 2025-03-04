@@ -1,4 +1,5 @@
-thingsboard/tb-postgres:3.9.1
+minio/minio:RELEASE.2025-02-28T09-55-16Z
+#thingsboard/tb-postgres:3.9.1
 #starrocks/allin1-ubuntu
 #spark:3.5.4-java17
 #mysql:8.0.41

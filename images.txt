@@ -1,4 +1,5 @@
-minio/minio:RELEASE.2025-02-28T09-55-16Z
+docker.elastic.co/elasticsearch/elasticsearch:7.14.0
+#minio/minio:RELEASE.2025-02-28T09-55-16Z
 #thingsboard/tb-postgres:3.9.1
 #starrocks/allin1-ubuntu
 #spark:3.5.4-java17

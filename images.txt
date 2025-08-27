@@ -1,2 +1,1 @@
-langgenius/qdrant:v1.7.3
-milvusdb/milvus:v2.5.15
+langgenius/dify-web:1.7.2

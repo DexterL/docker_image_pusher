@@ -1,1 +1,1 @@
-neo4j:2025.08.0
+apache/drill:1.22.0-openjdk-17

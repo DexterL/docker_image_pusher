@@ -1,1 +1,1 @@
-apache/drill:1.22.0-openjdk-17
+milvusdb/milvus:v2.5.19-20251011-17a91f3b-gpu-arm64

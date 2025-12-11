@@ -1,1 +1,1 @@
-janusgraph/janusgraph:1.2.0-20250815-215833.1b92960
+rustfs/rustfs:1.0.0.alpha.68

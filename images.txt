@@ -1,1 +1,1 @@
-rustfs/rustfs:1.0.0.alpha.68
+rustfs/rustfs:1.0.0.alpha.72

@@ -1,2 +1,3 @@
-zie619/n8n-workflows
+python:3.11-slim-bookworm
+zie619/n8n-workflows:latest
 rustfs/rustfs:1.0.0-alpha.72

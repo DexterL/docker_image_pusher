@@ -1,1 +1,1 @@
-node:20-alpine
+qwen3/asr:0.6b

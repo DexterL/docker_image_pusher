@@ -1,1 +1,1 @@
-qwen3/asr:0.6b
+qwenllm/qwen3-asr
